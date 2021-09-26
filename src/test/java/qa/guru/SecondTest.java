@@ -9,5 +9,4 @@ public class SecondTest {
     void secondTest() {
         Assertions.assertTrue(true);
     }
-
 }
